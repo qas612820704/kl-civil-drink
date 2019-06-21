@@ -1,0 +1,11 @@
+{
+  "name": "kl-civil-drink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@line/bot-sdk": "^6.7.1",
+    "express": "^4.17.1",
+    "webtask-tools": "^3.4.0"
+  }
+}
